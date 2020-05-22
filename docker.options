@@ -1,0 +1,2 @@
+#DOCKERD="/usr/local/bin/dockerd"
+DOCKER_OPTS=" --insecure-registry registry.netlyt.io "
